@@ -2,4 +2,5 @@
 
 members = [
     "msa_pairwise_identity",
+    "simple_headers"
 ]
