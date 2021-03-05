@@ -1,6 +1,6 @@
 [package]
-name = "msa_pairwise_identity"
-version = "0.1.0"
+name = "msa_pairwise"
+version = "0.2.0"
 authors = ["Ryan Moore <moorer@udel.edu>"]
 edition = "2018"
 
@@ -9,4 +9,6 @@ edition = "2018"
 [dependencies]
 bio = "0.32.0"
 indicatif = "0.15.0"
+lazy_static = "1.4.0"
+maplit = "1.0.2"
 structopt = "0.3.21"
