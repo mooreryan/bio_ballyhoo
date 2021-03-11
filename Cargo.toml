@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+    "derep",
     "msa_pairwise_identity",
     "simple_headers"
 ]
