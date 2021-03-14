@@ -2,6 +2,7 @@
 
 members = [
     "derep",
+    "make_reads",
     "msa_pairwise_identity",
     "simple_headers"
 ]
